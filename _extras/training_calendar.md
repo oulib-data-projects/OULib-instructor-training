@@ -47,24 +47,6 @@ New trainings are added to this calendar on a quarterly basis.
 
 <hr>
 
-#### [March 24-25, 2022](https://www.eventbrite.com/e/online-instructor-training-march-24-25-2022-tickets-272333365427)
-
-**Two 8-hour days:**  9 am - 5 pm N. America Central / 2 pm - 10 pm UTC /  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220324T09&p1=64&ah=8)
-
-<hr>
-
-#### [March 28-29, 2022](https://www.eventbrite.com/e/online-instructor-training-march-28-29-2022-tickets-220600059717)
-
-**Two 8-hour days:** 9 am - 5 pm N. America Eastern / 6 am - 2 pm N. America Pacific / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220328T09&p1=179&ah=8)
-
-<hr>
-
-#### [April 4-7, 2022](https://www.eventbrite.com/e/online-instructor-training-april-4-7-2022-tickets-291493283257)
-
-**Four 4-hour days:** 1 pm - 5 pm N. America Mountain / 3 pm - 7 pm N. America Eastern / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20220404T13&p1=75&ah=4)
-
-<hr>
-
 #### [April 26-29, 2022](https://www.eventbrite.com/e/online-instructor-training-april-26-29-2022-tickets-291556893517)
 
 **Four 4-hour days:** 12 noon - 4 pm Australia Eastern Standard Time / 7:30 am - 11:30 am India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220426T12&p1=240&ah=4)
