@@ -5,7 +5,7 @@ teaching: 30
 exercises: 30
 questions:
 - "How do people learn?"
-- "Who is a typical Carpentries learner?"
+- "Who is a typical coding learner?"
 - "How can we help novices become competent practitioners?"
 objectives:
 - "Compare and contrast the three stages of skill acquisition."
@@ -23,7 +23,7 @@ keypoints:
 
 We will now get started with a discussion of how learning works. We will begin with
 some key concepts from educational research and identify how these principles
-are put into practice in Carpentries workshops.
+are put into practice in coding workshops.
 
 ## The Carpentries Pedagogical Model
 
@@ -109,16 +109,6 @@ Some mental models can be succinctly summarized by comparison to something else 
 because they draw upon an existing mental model to fill in another, speeding learning and making a memorable connection. However, all analogies have limitations!
 If you choose to use an analogy, be sure its usefulness outweighs its potential to generate misconceptions that may interfere with learning. 
 
-> ## Analogy Brainstorm
->
-> 1. Think of an analogy to explore. Perhaps you have a favorite that relates to your area of professional interest, or a hobby. If 
-> you prefer to work with an example, consider this common analogy from education: "teaching is like gardening."
-> 2. Share your analogy with a partner or group. (If you have not yet done so, be sure to take a moment to introduce yourself, first!) What does your analogy
-> convey about the topic? How is it useful? In what ways is it wrong?
-> 
->
-> This activity should take about 10 minutes.
-{: .challenge}
 
 > ## Analogies at Work: "Software Carpentry"
 > People often ask where our name came from. Greg Wilson has this to say:
