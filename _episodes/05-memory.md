@@ -224,19 +224,6 @@ transferring attention to a new feature.
 > but that does not mean it always works.
 {: .callout}
 
-> ## Mapping Cognitive Load
->
-> Look in the curriculum that you chose to prepare for this workshop and focus on one step or task 
-> that learners will be asked to complete.  
-> 1. What concepts will learners need to understand and hold in short-term memory in order to complete this task?  
-> 2. Draw a concept map connecting these concepts. What relationships do learners need to understand to connect them?  
-> 3. How many of these concepts and relationships have been introduced since the previous step or exercise?  
-> 
-> With a partner or in small groups, discuss what you have found. Are your learners at risk of cognitive overload at this point in your workshop? Why or why not?
-> 
-> This exercise should take about 15 minutes.
-{: .challenge}
-
 
 ## Attention Management in Your Workshop
 Carpentries lessons include small tasks arranged incrementally 
@@ -312,3 +299,16 @@ limitations of short-term memory will improve the effectiveness of your teaching
 [wikipedia-faded]: https://en.wikipedia.org/wiki/Worked-example_effect
 [wikipedia-parsons]: https://en.wikipedia.org/wiki/Parsons_problems
 
+## Reflection thoughts/Worksheet
+> ## Mapping Cognitive Load
+>
+> Look in the curriculum that you chose to prepare for this workshop and focus on one step or task 
+> that learners will be asked to complete.  
+> 1. What concepts will learners need to understand and hold in short-term memory in order to complete this task?  
+> 2. Draw a concept map connecting these concepts. What relationships do learners need to understand to connect them?  
+> 3. How many of these concepts and relationships have been introduced since the previous step or exercise?  
+> 
+> With a partner or in small groups, discuss what you have found. Are your learners at risk of cognitive overload at this point in your workshop? Why or why not?
+> 
+> This exercise should take about 15 minutes.
+{: .challenge}
