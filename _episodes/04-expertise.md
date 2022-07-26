@@ -37,12 +37,6 @@ Competent practitioners
 have mental models that work well enough for most situations.
 How are experts different from both of these groups?
 
-> ## What Is An Expert?  
-> What is something that you are an expert in? How does your experience
-> when you are acting as an expert differ from when you are not an expert?  
->
-> This discussion should take about 5 minutes.
-{: .challenge}
 
 In reviewing the answers to the question above you will find that the expert 
 experience amounts to much more than just knowing more facts. 
@@ -164,15 +158,6 @@ before a novice has even finished reading the error message. Because of this, it
 while teaching to be explicit about the process you are using to engage with errors, even if they
 seem trivial to you, as they often will.
 
-> ## Diagnosis 
->
-> What is an error message that you encounter frequently in your work? (These are often syntax errors.)
-> Take a few minutes to plan out how you would explain that error message to your learners. Write the
-> error and your explanation in the Etherpad.
->
-> This discussion should take about 5 minutes. (Optionally, this may be discussed in group breakouts, adding 5 minutes.)
-{: .challenge}
-
 
 ## "Just" and Other Dismissive Language
 Instructors want to motivate learners! We will talk more about motivation in a later episode. But here, 
@@ -269,3 +254,21 @@ accidentally discourage rather than inviting questions, formative assessment has
 to bring these problems to the surface. As you develop teaching skill, you may be able 
 to avoid these pitfalls. Until then, becoming aware of when they occur will help you to 
 keep their impact under control. 
+
+## Reflection thoughts (maybe as worksheet)
+
+> ## What Is An Expert?  
+> What is something that you are an expert in? How does your experience
+> when you are acting as an expert differ from when you are not an expert?  
+>
+> This discussion should take about 5 minutes.
+{: .challenge}
+
+> ## Diagnosis 
+>
+> What is an error message that you encounter frequently in your work? (These are often syntax errors.)
+> Take a few minutes to plan out how you would explain that error message to your learners. Write the
+> error and your explanation in the Etherpad.
+>
+> This discussion should take about 5 minutes. (Optionally, this may be discussed in group breakouts, adding 5 minutes.)
+{: .challenge}
